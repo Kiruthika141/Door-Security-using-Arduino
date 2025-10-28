@@ -72,4 +72,9 @@ When a user enters their "card number" through serial input, the Arduino validat
 - LCD Interfacing  
 - Digital I/O (LEDs and Buzzer)  
 - Conditional Logic  
-- Authentication Simulation  
+- Authentication Simulation
+
+## Support
+
+If you find this project useful, give it a **⭐ Star** on GitHub!  
+It helps more learners discover practical embedded simulations
