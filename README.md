@@ -53,7 +53,7 @@ When a user enters their "card number" through serial input, the Arduino validat
 1. Upload the Arduino code (`SmartHome_Lock.ino`) to your Proteus simulation.
 2. Connect a **Virtual Terminal** to Arduino TX (Pin 1) and RX (Pin 0).
 3. Run the simulation.
-4. In the terminal, type a card number (e.g., `12345`) and press Enter.
+4. In the terminal, type a card number (e.g., `11111`) and press Enter.
 5. The LCD and LEDs will respond accordingly:
 
 | Card Number | User Name | Result |
